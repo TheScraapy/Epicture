@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Epimgur</string>
+    <string name="search_bar">Search</string>
+    <string name="dropdown_prompt">Viral</string>
+
+    <string-array name="dropdown_list">
+        <item>Top</item>
+        <item>Viral</item>
+        <item>Time</item>
+    </string-array>
+
+</resources>
